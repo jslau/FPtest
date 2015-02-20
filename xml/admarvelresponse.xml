@@ -1,0 +1,32 @@
+<document>
+<ad type="text" >
+<text>text</text>
+<clickurl>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</clickurl>
+<pixels>
+<pixel>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</pixel>
+<pixel>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</pixel>
+</pixels>
+<xhtml>unmodified_xhtml</xhtml>
+</ad>
+<ad type="image" >
+<image>
+<url>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</url>
+<alt>text</alt>
+<width>300px</width>
+<height>60px</height>
+</image>
+<clickurl>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</clickurl>
+<pixels>
+<pixel>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</pixel>
+<pixel>http://www.iloopmobile.com/var/plain_site/storage/images/design/iloop-mobile/172-7-eng-US/iLoop-Mobile.png</pixel>
+</pixels>
+<xhtml>unmodified_xhtml</xhtml>
+</ad>
+<ad type="javascript" >
+<xhtml>unmodified_xhtml_with_javascript</xhtml>
+</ad>
+<ad type="error">
+<errorCode>AdMarvel_error_code</errorCode>
+<errorReason>error_description</errorReason>
+</ad>
+</document>

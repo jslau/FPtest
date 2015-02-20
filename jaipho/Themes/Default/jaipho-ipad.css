@@ -1,0 +1,223 @@
+/* 
+	v 1.02.00
+*/
+
+body {
+	min-height: 916px; /* 63 */
+}
+
+body[orient="landscape"] 
+{
+	min-height: 660px; /* 51 */
+}
+
+
+/* TOOLBARS */
+.toolbar
+{
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	background: url(toolbar-ipad.png) repeat-x;
+	height:60px;
+	width:100%;	
+	line-height:60px;	
+	opacity: 0.90;
+}
+.toolbar table
+{
+	width: 768px;
+}
+body[orient="landscape"] .toolbar table
+{
+	width: 1024px;
+}
+
+.toolbar table .wing
+{
+	width:200px; /* x2 */
+}
+body[orient="landscape"] .toolbar table .wing
+{
+	width:240px; /* x2 */
+}
+
+.toolbar table .center
+{
+	width:368px;
+}
+
+body[orient="landscape"] .toolbar table .center
+{
+	width:544px;
+}
+ 
+#thumbs-count-text
+{
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+
+/* SLIDE  */
+#slider-container .slide
+{
+	width: 768px;
+}
+body[orient="landscape"] #slider-container .slide
+{
+	width:1024px;	
+}
+
+#slider-container .slide img
+{	
+	max-width: 768px;
+	max-height: 916px; /* 63 */
+}
+
+body[orient="landscape"] #slider-container .slide img
+{	
+	max-width: 1024px;
+	max-height: 660px; /* 51 */
+}
+
+
+#slider-container .space
+{
+	height: 916px; /* 63 */
+}
+
+body[orient="landscape"] #slider-container .space
+{
+	height: 660px; /* 51 */
+}
+
+#slider-container .space-width	
+{
+	height: 1px;
+	width: 768px;
+}
+
+body[orient="landscape"] #slider-container .space-width
+{
+	height: 1px;
+	width: 1024px;
+}
+
+#slider-desc-container
+{
+	width:768px;
+	height:828px; /* 152 */
+	top:44px;
+}
+body[orient="landscape"] #slider-desc-container
+{
+	width:1024px;
+	height:572px; /* 142 */
+	top:44px;
+}
+#slider-toolbar-bottom
+{
+	top: 887px; /* 107 */
+}
+
+body[orient="landscape"] #slider-toolbar-bottom
+{
+	top: 631px; /* 95 */
+}
+
+/* NAVI ELEMENTS */
+.button {
+    height: 44px;
+	min-width: 70px; /* x2 */
+	max-width: 120px; /* x2 */
+	
+    line-height: 44px;
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 1) 0px -1px 0;
+	-webkit-border-image: url(btnBack-ipad.png) 0 8 0 14;
+}
+.button2 {
+    height: 44px;
+	min-width: 70px; /* x2 */
+	max-width: 120px; /* x2 */
+	
+    line-height: 44px;
+    font-size: 16px;
+    text-shadow: rgba(0, 0, 0, 1) 0px -1px 0;
+	-webkit-border-image: url(btnFwd-ipad.png) 0 14 0 8;
+}
+#navi-prev
+{
+	text-align:right;
+	padding-right:12px;
+	height: 60px;	
+	background: url(navPrev.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+#navi-next
+{
+	text-align:left;
+	padding-left:12px;
+	height: 60px;
+	background: url(navNext.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+#navi-play
+{
+	height: 60px;
+	background: url(navPlay.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#navi-pause
+{
+	display: none;
+	height: 60px;
+	background: url(navPause.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+body[orient="landscape"] .button {
+	max-width: 200px; /* x2 */
+}
+
+/* SPLASH SCREEN */
+#splash-screen
+{
+	height: 946px; /* 63 */
+}
+body[orient="landscape"] #splash-screen
+{
+	height: 690px; /* 51 */
+}
+
+/* SLIDE DESCRIPTION */
+.slider-text
+{
+	width: 100%;
+	vertical-align: text-bottom;
+	color: white;
+	font-size: 14px;
+	text-align: left;
+	text-shadow: rgba(0, 0, 0, 1) 2px 2px 3px;
+}
+#desc-title
+{
+	font-size: 22px;
+        font-weight: bold;
+	text-align: center;
+}
+#desc-text
+{
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+}
+#desc-credit
+{
+	font-size: 12px;
+	text-align: center;
+}

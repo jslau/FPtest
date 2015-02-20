@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:eonline="http://www.eonline.com/static/xml/xmlns/" xsi:type="AppRss" version="2.0">
+   <channel xsi:type="AppRssChannel">
+   		<title>E! Chelsea Lately Photo Gallery</title>
+        <description>E! Chelsea Lately Photo Gallery</description>
+        <ttl>25</ttl>
+        <copyright>2011 E!, Inc. All rights reserved.</copyright>
+        <image>
+
+            <title>E! Online (US) - Chelsea Lately Photo Gallery</title>
+            <width>120</width>
+            <height>60</height>
+            <link>http://www.eonline.com/</link>
+            <url>http://images.eonline.com/static/uberblog/images/feeds_logo.gif</url>
+        </image> 
+      
+        <item>
+
+        		<eonline:title>Chuy&#039;s Golden Moments</eonline:title>
+                <eonline:author></eonline:author>
+                <eonline:guid isPermaLink="false">galleries_263</eonline:guid>
+                <eonline:link>http://syndication.eonline.com/syndication/feeds/mobile/common/gallery_detail.jsp?galleryId=263&amp;title=Chelsea Lately Photo Gallery</eonline:link>
+                <eonline:franchise></eonline:franchise>
+                <eonline:description><![CDATA[]]></eonline:description>
+
+                <eonline:thumbnail_74>
+					<eonline:imgwidth>74</eonline:imgwidth>
+					<eonline:imgheight>74</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/74/74//eol_images/Entire_Site/20090226/300.combs.chuy.022609.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_74>
+				<eonline:thumbnail_120>
+
+					<eonline:imgwidth>120</eonline:imgwidth>
+					<eonline:imgheight>120</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/120/120//eol_images/Entire_Site/20090226/300.combs.chuy.022609.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_120>
+				<eonline:thumbnail_148>
+					<eonline:imgwidth>148</eonline:imgwidth>
+
+					<eonline:imgheight>148</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/148/148//eol_images/Entire_Site/20090226/300.combs.chuy.022609.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_148>
+				<eonline:thumbnail_240>
+					<eonline:imgwidth>240</eonline:imgwidth>
+					<eonline:imgheight>240</eonline:imgheight>
+
+					<eonline:imgurl>http://images.eonline.com/resize/240/240//eol_images/Entire_Site/20090226/300.combs.chuy.022609.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_240>
+                
+                <eonline:pubDate>Wed, 13 Oct 2010 03:23:29 PM PDT</eonline:pubDate>
+                <eonline:lastModDate>Wed, 13 Oct 2010 03:23:21 PM PDT</eonline:lastModDate>
+        	</item>
+        <item>
+
+        		<eonline:title>&lt;i&gt;Chelsea Lately&lt;/i&gt;</eonline:title>
+                <eonline:author></eonline:author>
+                <eonline:guid isPermaLink="false">galleries_262</eonline:guid>
+                <eonline:link>http://syndication.eonline.com/syndication/feeds/mobile/common/gallery_detail.jsp?galleryId=262&amp;title=Chelsea Lately Photo Gallery</eonline:link>
+                <eonline:franchise></eonline:franchise>
+
+                <eonline:description><![CDATA[]]></eonline:description>
+
+                <eonline:thumbnail_74>
+					<eonline:imgwidth>74</eonline:imgwidth>
+					<eonline:imgheight>74</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/74/74//eol_images/Entire_Site/20090302/300.handler.chuy3.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_74>
+
+				<eonline:thumbnail_120>
+
+					<eonline:imgwidth>120</eonline:imgwidth>
+					<eonline:imgheight>120</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/120/120//eol_images/Entire_Site/20090302/300.handler.chuy3.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_120>
+				<eonline:thumbnail_148>
+
+					<eonline:imgwidth>148</eonline:imgwidth>
+
+					<eonline:imgheight>148</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/148/148//eol_images/Entire_Site/20090302/300.handler.chuy3.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_148>
+				<eonline:thumbnail_240>
+					<eonline:imgwidth>240</eonline:imgwidth>
+
+					<eonline:imgheight>240</eonline:imgheight>
+
+					<eonline:imgurl>http://images.eonline.com/resize/240/240//eol_images/Entire_Site/20090302/300.handler.chuy3.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_240>
+                
+                <eonline:pubDate>Wed, 13 Oct 2010 03:22:30 PM PDT</eonline:pubDate>
+                <eonline:lastModDate>Wed, 13 Oct 2010 03:22:21 PM PDT</eonline:lastModDate>
+
+        	</item>
+        <item>
+
+        		<eonline:title>&lt;i&gt;Chelsea Lately&lt;/i&gt;: Behind The Scenes</eonline:title>
+                <eonline:author></eonline:author>
+                <eonline:guid isPermaLink="false">galleries_264</eonline:guid>
+                <eonline:link>http://syndication.eonline.com/syndication/feeds/mobile/common/gallery_detail.jsp?galleryId=264&amp;title=Chelsea Lately Photo Gallery</eonline:link>
+
+                <eonline:franchise></eonline:franchise>
+
+                <eonline:description><![CDATA[]]></eonline:description>
+                <eonline:thumbnail_74>
+					<eonline:imgwidth>74</eonline:imgwidth>
+					<eonline:imgheight>74</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/74/74//eol_images/Entire_Site/20090302/300.handler.chuy2.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+
+				</eonline:thumbnail_74>
+
+				<eonline:thumbnail_120>
+					<eonline:imgwidth>120</eonline:imgwidth>
+					<eonline:imgheight>120</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/120/120//eol_images/Entire_Site/20090302/300.handler.chuy2.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_120>
+
+				<eonline:thumbnail_148>
+
+					<eonline:imgwidth>148</eonline:imgwidth>
+					<eonline:imgheight>148</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/148/148//eol_images/Entire_Site/20090302/300.handler.chuy2.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_148>
+				<eonline:thumbnail_240>
+
+					<eonline:imgwidth>240</eonline:imgwidth>
+
+					<eonline:imgheight>240</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/240/240//eol_images/Entire_Site/20090302/300.handler.chuy2.030209.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Entertainment]]></eonline:imgcopyright>
+				</eonline:thumbnail_240>
+                
+                <eonline:pubDate>Wed, 13 Oct 2010 03:21:48 PM PDT</eonline:pubDate>
+
+                <eonline:lastModDate>Wed, 13 Oct 2010 03:21:39 PM PDT</eonline:lastModDate>
+        	</item>
+
+        <item>
+        		<eonline:title>People Working in Costume</eonline:title>
+                <eonline:author></eonline:author>
+                <eonline:guid isPermaLink="false">galleries_2323</eonline:guid>
+                <eonline:link>http://syndication.eonline.com/syndication/feeds/mobile/common/gallery_detail.jsp?galleryId=2323&amp;title=Chelsea Lately Photo Gallery</eonline:link>
+
+                <eonline:franchise></eonline:franchise>
+                <eonline:description><![CDATA[]]></eonline:description>
+
+                <eonline:thumbnail_74>
+					<eonline:imgwidth>74</eonline:imgwidth>
+					<eonline:imgheight>74</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/74/74//eol_images/Entire_Site/2010724//300.chelsea.cm.82410.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Networks]]></eonline:imgcopyright>
+
+				</eonline:thumbnail_74>
+				<eonline:thumbnail_120>
+
+					<eonline:imgwidth>120</eonline:imgwidth>
+					<eonline:imgheight>120</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/120/120//eol_images/Entire_Site/2010724//300.chelsea.cm.82410.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Networks]]></eonline:imgcopyright>
+				</eonline:thumbnail_120>
+
+				<eonline:thumbnail_148>
+					<eonline:imgwidth>148</eonline:imgwidth>
+
+					<eonline:imgheight>148</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/148/148//eol_images/Entire_Site/2010724//300.chelsea.cm.82410.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Networks]]></eonline:imgcopyright>
+				</eonline:thumbnail_148>
+				<eonline:thumbnail_240>
+
+					<eonline:imgwidth>240</eonline:imgwidth>
+					<eonline:imgheight>240</eonline:imgheight>
+
+					<eonline:imgurl>http://images.eonline.com/resize/240/240//eol_images/Entire_Site/2010724//300.chelsea.cm.82410.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[E! Networks]]></eonline:imgcopyright>
+				</eonline:thumbnail_240>
+                
+                <eonline:pubDate>Wed, 25 Aug 2010 12:39:15 PM PDT</eonline:pubDate>
+
+                <eonline:lastModDate>Wed, 25 Aug 2010 12:38:55 PM PDT</eonline:lastModDate>
+        	</item>
+        <item>
+
+        		<eonline:title>Chelsea on the Red Carpet</eonline:title>
+                <eonline:author></eonline:author>
+                <eonline:guid isPermaLink="false">galleries_613</eonline:guid>
+                <eonline:link>http://syndication.eonline.com/syndication/feeds/mobile/common/gallery_detail.jsp?galleryId=613&amp;title=Chelsea Lately Photo Gallery</eonline:link>
+
+                <eonline:franchise></eonline:franchise>
+                <eonline:description><![CDATA[]]></eonline:description>
+                <eonline:thumbnail_74>
+
+					<eonline:imgwidth>74</eonline:imgwidth>
+					<eonline:imgheight>74</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/74/74//eol_images/Entire_Site/20090309/300.handler.chelsea3.lc.030909.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[Jemal Countess/ Getty Images]]></eonline:imgcopyright>
+
+				</eonline:thumbnail_74>
+				<eonline:thumbnail_120>
+					<eonline:imgwidth>120</eonline:imgwidth>
+
+					<eonline:imgheight>120</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/120/120//eol_images/Entire_Site/20090309/300.handler.chelsea3.lc.030909.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[Jemal Countess/ Getty Images]]></eonline:imgcopyright>
+				</eonline:thumbnail_120>
+
+				<eonline:thumbnail_148>
+					<eonline:imgwidth>148</eonline:imgwidth>
+					<eonline:imgheight>148</eonline:imgheight>
+
+					<eonline:imgurl>http://images.eonline.com/resize/148/148//eol_images/Entire_Site/20090309/300.handler.chelsea3.lc.030909.jpg</eonline:imgurl>
+					<eonline:imgcopyright><![CDATA[Jemal Countess/ Getty Images]]></eonline:imgcopyright>
+				</eonline:thumbnail_148>
+				<eonline:thumbnail_240>
+
+					<eonline:imgwidth>240</eonline:imgwidth>
+					<eonline:imgheight>240</eonline:imgheight>
+					<eonline:imgurl>http://images.eonline.com/resize/240/240//eol_images/Entire_Site/20090309/300.handler.chelsea3.lc.030909.jpg</eonline:imgurl>
+
+					<eonline:imgcopyright><![CDATA[Jemal Countess/ Getty Images]]></eonline:imgcopyright>
+				</eonline:thumbnail_240>
+                
+                <eonline:pubDate>Thu, 12 Mar 2009 05:40:22 PM PDT</eonline:pubDate>
+
+                <eonline:lastModDate>Fri, 13 Mar 2009 11:39:23 AM PDT</eonline:lastModDate>
+        	</item>
+        </channel>
+</rss>

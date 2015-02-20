@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:eonline="http://www.eonline.com/static/xml/xmlns/" xsi:type="AppRss" version="2.0">
+   <channel xsi:type="AppRssChannel">
+	   <title>E! Online - Latest Shows</title>
+	   <description>E! Latest Shows</description>
+	   <ttl>25</ttl>
+	   <copyright>2011 E!, Inc. All rights reserved.</copyright>
+	   <image>
+
+	        <title>E! Online - Shows</title>
+	        <width>120</width>
+	        <height>60</height>
+	        <link>http://www.eonline.com/</link>
+	        <url>http://images.eonline.com/static/uberblog/images/feeds_logo.gif</url>
+	   </image> 
+	
+	<item>
+
+		<eonline:title>Kourtney &amp; Kim Take New York</eonline:title>
+		<eonline:description>Kourtney &amp; Kim Take New York</eonline:description>
+		<eonline:link></eonline:link>
+		<eonline:photos></eonline:photos>
+		<eonline:videos></eonline:videos>
+		<eonline:thumbnail_74>
+			<eonline:imgwidth>74</eonline:imgwidth>
+
+			<eonline:imgheight>74</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktny/74_KKTNY_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_74>
+		<eonline:thumbnail_120>
+			<eonline:imgwidth>120</eonline:imgwidth>
+			<eonline:imgheight>120</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktny/120_KKTNY_Smartphone_Thumbnails.jpg</eonline:imgurl>
+
+		</eonline:thumbnail_120>
+		<eonline:thumbnail_148>
+			<eonline:imgwidth>148</eonline:imgwidth>
+			<eonline:imgheight>148</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktny/148_KKTNY_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_148>
+		<eonline:thumbnail_240>
+
+			<eonline:imgwidth>240</eonline:imgwidth>
+			<eonline:imgheight>240</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktny/240_KKTNY_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_240>
+	</item>
+	<item>
+		<eonline:title>Fashion Police</eonline:title>
+
+		<eonline:description>Fashion Police</eonline:description>
+		<eonline:link></eonline:link>
+		<eonline:photos>http://syndication.eonline.com/syndication/feeds/mobile/apps/fashionpolice/galleries.xml</eonline:photos>
+		<eonline:videos>http://syndication.eonline.com/syndication/feeds/mobile/apps/fashionpolice/video.xml</eonline:videos>
+		<eonline:thumbnail_74>
+			<eonline:imgwidth>74</eonline:imgwidth>
+
+			<eonline:imgheight>74</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/fp/74_FP_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_74>
+		<eonline:thumbnail_120>
+			<eonline:imgwidth>120</eonline:imgwidth>
+			<eonline:imgheight>120</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/fp/120_FP_Smartphone_Thumbnails.jpg</eonline:imgurl>
+
+		</eonline:thumbnail_120>
+		<eonline:thumbnail_148>
+			<eonline:imgwidth>148</eonline:imgwidth>
+			<eonline:imgheight>148</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/fp/148_FP_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_148>
+		<eonline:thumbnail_240>
+
+			<eonline:imgwidth>240</eonline:imgwidth>
+			<eonline:imgheight>240</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/fp/240_FP_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_240>
+	</item>
+	<item>
+		<eonline:title>Kourtney &amp; Khloe Take Miami</eonline:title>
+
+		<eonline:description>Kourtney &amp; Khloe Take Miami</eonline:description>
+		<eonline:link></eonline:link>
+		<eonline:photos></eonline:photos>
+		<eonline:videos></eonline:videos>
+		<eonline:thumbnail_74>
+			<eonline:imgwidth>74</eonline:imgwidth>
+			<eonline:imgheight>74</eonline:imgheight>
+
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktm/74_KKTM_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_74>
+		<eonline:thumbnail_120>
+			<eonline:imgwidth>120</eonline:imgwidth>
+			<eonline:imgheight>120</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktm/120_KKTM_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_120>
+
+		<eonline:thumbnail_148>
+			<eonline:imgwidth>148</eonline:imgwidth>
+			<eonline:imgheight>148</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktm/148_KKTM_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_148>
+		<eonline:thumbnail_240>
+			<eonline:imgwidth>240</eonline:imgwidth>
+
+			<eonline:imgheight>240</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/kktm/240_KKTM_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_240>
+	</item>
+	<item>
+		<eonline:title>The Soup</eonline:title>
+		<eonline:description>The Soup</eonline:description>
+
+		<eonline:link></eonline:link>
+		<eonline:photos>http://syndication.eonline.com/syndication/feeds/mobile/apps/soup/galleries.xml</eonline:photos>
+		<eonline:videos>http://syndication.eonline.com/syndication/feeds/mobile/apps/soup/video_common.xml</eonline:videos>
+		<eonline:thumbnail_74>
+			<eonline:imgwidth>74</eonline:imgwidth>
+			<eonline:imgheight>74</eonline:imgheight>
+
+			<eonline:imgurl>http://fpapp.eonline.com/images/soup/74_Soup_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_74>
+		<eonline:thumbnail_120>
+			<eonline:imgwidth>120</eonline:imgwidth>
+			<eonline:imgheight>120</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/soup/120_Soup_Smartphone_Thumbnails.jpg</eonline:imgurl>
+
+		</eonline:thumbnail_120>
+		<eonline:thumbnail_148>
+			<eonline:imgwidth>148</eonline:imgwidth>
+			<eonline:imgheight>148</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/soup/148_Soup_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_148>
+		<eonline:thumbnail_240>
+
+			<eonline:imgwidth>240</eonline:imgwidth>
+			<eonline:imgheight>240</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/soup/240_Soup_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_240>
+	</item>
+	<item>
+		<eonline:title>Chelsea Lately</eonline:title>
+
+		<eonline:description>Chelsea Lately</eonline:description>
+		<eonline:link></eonline:link>
+		<eonline:photos>http://syndication.eonline.com/syndication/feeds/mobile/apps/chelsea/galleries.xml</eonline:photos>
+		<eonline:videos>http://syndication.eonline.com/syndication/feeds/mobile/apps/chelsea/video.xml</eonline:videos>
+		<eonline:thumbnail_74>
+			<eonline:imgwidth>74</eonline:imgwidth>
+
+			<eonline:imgheight>74</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/chelsea/74_Chelsea_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_74>
+		<eonline:thumbnail_120>
+			<eonline:imgwidth>120</eonline:imgwidth>
+			<eonline:imgheight>120</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/chelsea/120_Chelsea_Smartphone_Thumbnails.jpg</eonline:imgurl>
+
+		</eonline:thumbnail_120>
+		<eonline:thumbnail_148>
+			<eonline:imgwidth>148</eonline:imgwidth>
+			<eonline:imgheight>148</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/chelsea/148_Chelsea_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_148>
+		<eonline:thumbnail_240>
+
+			<eonline:imgwidth>240</eonline:imgwidth>
+			<eonline:imgheight>240</eonline:imgheight>
+			<eonline:imgurl>http://fpapp.eonline.com/images/chelsea/240_Chelsea_Smartphone_Thumbnails.jpg</eonline:imgurl>
+		</eonline:thumbnail_240>
+	</item>
+	</channel>
+</rss>

@@ -1,0 +1,1160 @@
+2009-02-12 21:33:32 PST ERROR Unexpected error occured
+2009-02-10 23:24:43 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 21:48:49 PST ERROR Unexpected error occured
+2009-02-10 21:02:43 PST ERROR Encountered "Britney has" at line 16, column 2.
+Was expecting one of:
+    "in" ...
+    ">" ...
+    <EMPTY_DIRECTIVE_END> ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    "!=" ...
+    "=" ...
+    "==" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    "," ...
+    <ID> "=" ...
+    
+2009-02-10 20:58:11 PST ERROR Encountered "Britney has" at line 4, column 2.
+Was expecting one of:
+    "in" ...
+    ">" ...
+    <EMPTY_DIRECTIVE_END> ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    "!=" ...
+    "=" ...
+    "==" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    "," ...
+    <ID> "=" ...
+    
+2009-02-10 20:57:39 PST ERROR Encountered "Britney has" at line 4, column 2.
+Was expecting one of:
+    "in" ...
+    ">" ...
+    <EMPTY_DIRECTIVE_END> ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    "!=" ...
+    "=" ...
+    "==" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    "," ...
+    <ID> "=" ...
+    
+2009-02-10 09:48:15 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 02:09:50 PST ERROR Error on line 10, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/wwk.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/wwk.xml") [on line 10, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+----------
+
+2009-02-10 02:03:38 PST ERROR Unexpected error occured
+2009-02-10 02:02:18 PST ERROR Unexpected error occured
+2009-02-10 02:01:59 PST ERROR Unexpected error occured
+2009-02-10 01:59:28 PST ERROR Unexpected error occured
+2009-02-10 01:59:06 PST ERROR Unexpected error occured
+2009-02-10 01:58:32 PST ERROR Unexpected error occured
+2009-02-10 01:58:30 PST ERROR Unexpected error occured
+2009-02-10 01:56:49 PST ERROR Unexpected error occured
+2009-02-10 01:56:15 PST ERROR Unexpected error occured
+2009-02-10 01:55:58 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 01:48:34 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 01:44:57 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 01:42:17 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-10 01:29:49 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 23:32:42 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 23:32:32 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 23:21:46 PST ERROR 
+----------
+==> ${xx[1]} [on line 90, column 3 in dev.eonline.mblade.iloopmobile.com/paging.ftl]
+ in user-directive article_paging.paging [on line 74, column 17 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+----------
+
+String index out of range: 2
+2009-02-09 23:20:42 PST ERROR Expected string. totpage evaluated instead to freemarker.template.SimpleNumber on line 89, column 8 in dev.eonline.mblade.iloopmobile.com/paging.ftl.
+----------
+==> list totpage?split(".") as xx [on line 89, column 1 in dev.eonline.mblade.iloopmobile.com/paging.ftl]
+ in user-directive article_paging.paging [on line 74, column 17 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+----------
+
+2009-02-09 23:20:15 PST ERROR Expected string. totpage evaluated instead to freemarker.template.SimpleNumber on line 89, column 8 in dev.eonline.mblade.iloopmobile.com/paging.ftl.
+----------
+==> list totpage?split(".") as xx [on line 89, column 1 in dev.eonline.mblade.iloopmobile.com/paging.ftl]
+ in user-directive article_paging.paging [on line 74, column 17 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/watch_kristin.ftl]
+----------
+
+2009-02-09 23:15:26 PST ERROR Unexpected error occured
+2009-02-09 23:14:31 PST ERROR Unexpected error occured
+2009-02-09 23:03:59 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 23:01:20 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:54:44 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:53:52 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:52:23 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:51:35 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:51:26 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:46:39 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:45:58 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:44:48 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:43:54 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:42:51 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:41:26 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:41:21 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:41:18 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:33:05 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:32:22 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:27:44 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:27:19 PST ERROR Expression page.params.franchise is undefined on line 3, column 19 in dev.eonline.mblade.iloopmobile.com/franchise.ftl.
+----------
+==> ${page.params.franchise} [on line 3, column 17 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive header_img.b [on line 3, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/franchise.ftl]
+----------
+
+2009-02-09 22:16:25 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:14:47 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story_full.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story_full.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story_full.ftl]
+----------
+
+2009-02-09 22:13:58 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:13:58 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 22:10:07 PST ERROR Error on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 14, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/top_story.ftl]
+----------
+
+2009-02-09 21:16:19 PST ERROR Expression page.params.id is undefined on line 4, column 19 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if item.guid == page.params.id [on line 4, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 21:07:16 PST ERROR Expression data is undefined on line 11, column 14 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: len=data?length [on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 21:06:20 PST ERROR Expression data is undefined on line 11, column 14 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: len=data?length [on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 21:05:49 PST ERROR Unexpected error occured
+2009-02-09 21:05:08 PST ERROR Unexpected error occured
+2009-02-09 21:03:51 PST ERROR Expression data is undefined on line 10, column 3 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${data} [on line 10, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 21:03:05 PST ERROR Expression data is undefined on line 10, column 3 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${data} [on line 10, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 20:55:28 PST ERROR Unexpected error occured
+2009-02-09 20:48:34 PST ERROR Unexpected error occured
+2009-02-09 20:47:54 PST ERROR Expression len is undefined on line 6, column 14 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: len=len?number [on line 6, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 20:46:52 PST ERROR Expression data is undefined on line 7, column 14 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: len=data?length [on line 7, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 20:46:44 PST ERROR Expression data is undefined on line 7, column 14 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: len=data?length [on line 7, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 20:30:00 PST ERROR Unexpected error occured
+2009-02-09 20:15:04 PST ERROR Unexpected error occured
+2009-02-09 09:12:29 PST ERROR Unexpected error occured
+2009-02-09 09:09:10 PST ERROR Unexpected error occured
+2009-02-09 09:08:35 PST ERROR Unexpected error occured
+2009-02-09 09:01:46 PST ERROR Unexpected error occured
+2009-02-09 09:01:35 PST ERROR Unexpected error occured
+2009-02-09 09:00:55 PST ERROR Unexpected error occured
+2009-02-09 09:00:44 PST ERROR Unexpected error occured
+2009-02-09 08:58:58 PST ERROR 
+----------
+==> assignment: less=arr[(pageno*2)] [on line 129, column 33 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+String index out of range: 11
+2009-02-09 08:58:26 PST ERROR 
+----------
+==> assignment: less=arr[(pageno*2)] [on line 129, column 33 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+String index out of range: 11
+2009-02-09 08:55:04 PST ERROR Error: on line 169, column 65 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: ,
+----------
+==> assignment: con1=con-650-less?number [on line 169, column 41 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:54:47 PST ERROR Error: on line 138, column 57 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: ,1
+----------
+==> assignment: less=(arr[(pageno*2)+1] + arr[(pageno*2)+2])?number [on line 138, column 41 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:54:21 PST ERROR 
+----------
+==> assignment: less=(arr[(pageno*2)+1] + arr[(pageno*2)+2])?number [on line 138, column 41 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+String index out of range: 13
+2009-02-09 08:37:48 PST ERROR Error on line 160, column 57 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expression page.params.end is not numerical
+----------
+==> assignment: con0=page.params.end-lent?number [on line 160, column 41 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:17:49 PST ERROR Error: on line 156, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: -
+----------
+==> assignment: con1=con-650-less?number [on line 156, column 25 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:14:55 PST ERROR Expression totallist_arr[nos] is undefined on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:14:44 PST ERROR Error on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+page.params.id is undefined.
+It cannot be assigned to pageid
+----------
+==> assignment: pageid=page.params.id [on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:13:50 PST ERROR Expression totallist_arr[nos] is undefined on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:13:27 PST ERROR Expression totallist_arr[nos] is undefined on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:12:17 PST ERROR Error: on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: 
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:11:42 PST ERROR Error: on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: 
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 08:11:01 PST ERROR Error: on line 131, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expecting a number here, found: 
+----------
+==> assignment: last=totallist_arr[nos]?number [on line 131, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:57:26 PST ERROR 
+----------
+==> assignment: less=arr[(pageno*2)] [on line 126, column 33 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+String index out of range: 5
+2009-02-09 07:53:09 PST ERROR Expression last is undefined on line 133, column 40 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> ${last} [on line 133, column 38 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:51:23 PST ERROR Expression last is undefined on line 133, column 40 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> ${last} [on line 133, column 38 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:47:50 PST ERROR Expression totallist_res is undefined on line 119, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> assignment: last=totallist_res[nos]?number [on line 119, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:46:45 PST ERROR Expression totallist_res is undefined on line 119, column 49 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl.
+----------
+==> assignment: last=totallist_res[nos]?number [on line 119, column 34 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:36:06 PST ERROR Unexpected error occured
+2009-02-09 07:30:40 PST INFO 404 File not found: /t1.ft
+2009-02-09 07:30:07 PST INFO 404 File not found: /t1.ft
+2009-02-09 07:21:05 PST ERROR Error on line 134, column 108 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expression less is not numerical
+----------
+==> ${con-650-less} [on line 134, column 106 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.paragraph [on line 134, column 33 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 07:17:58 PST ERROR Expression dara_ser1 is undefined on line 159, column 142 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> ${dara_ser1} [on line 159, column 140 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.paragraph [on line 159, column 41 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 07:15:09 PST ERROR Encountered ")" at line 117, column 50.
+Was expecting one of:
+    "]" ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    "!=" ...
+    "=" ...
+    "==" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    
+2009-02-09 07:13:59 PST ERROR Encountered "]" at line 114, column 49.
+Was expecting one of:
+    <STRING_LITERAL> ...
+    <RAW_STRING> ...
+    "false" ...
+    "true" ...
+    <INTEGER> ...
+    <DECIMAL> ...
+    "." ...
+    "+" ...
+    "-" ...
+    "!" ...
+    "[" ...
+    "(" ...
+    "{" ...
+    <ID> ...
+    
+2009-02-09 07:03:29 PST ERROR Encountered "/>" at line 108, column 49.
+Was expecting one of:
+    ">" ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    
+2009-02-09 07:02:12 PST ERROR Error: on line 138, column 45 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl
+Expecting numerical argument here
+----------
+==> assignment: mm=m?substring(first, last) [on line 138, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 06:58:45 PST ERROR Unexpected error occured
+2009-02-09 06:55:34 PST ERROR Error on line 128, column 137 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+Expression pageno is not numerical
+----------
+==> ${pageno-1} [on line 128, column 135 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.paragraph [on line 128, column 33 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 06:39:05 PST ERROR Error on line 18, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl
+page.params.id is undefined.
+It cannot be assigned to pageid
+----------
+==> assignment: pageid=page.params.id [on line 18, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 06:07:43 PST ERROR Expression dara_ser1 is undefined on line 154, column 134 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> ${dara_ser1} [on line 154, column 132 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.paragraph [on line 154, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 06:05:36 PST ERROR Expression dara_ser1 is undefined on line 154, column 134 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> ${dara_ser1} [on line 154, column 132 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.paragraph [on line 154, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 06:00:59 PST ERROR Error on line 18, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl
+page.params.id is undefined.
+It cannot be assigned to pageid
+----------
+==> assignment: pageid=page.params.id [on line 18, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:57:38 PST ERROR Expression page.params.arr is undefined on line 124, column 58 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> assignment: totallist_res=page.params.arr?split(",") [on line 124, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:51:59 PST INFO 404 File not found: /rasmi_paging.ft
+2009-02-09 05:49:18 PST ERROR The only legal comparisons are between two numbers, two strings, or two dates.
+Left  hand operand is a freemarker.template.SimpleNumber
+Right hand operand is a freemarker.template.SimpleScalar
+
+----------
+==> if-else  [on line 113, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:48:23 PST ERROR Expression prev is undefined on line 113, column 54 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 113, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:46:44 PST ERROR Expression prev is undefined on line 113, column 54 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 113, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:46:02 PST ERROR Expression prev is undefined on line 113, column 46 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 113, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:41:14 PST ERROR Expression dara_ser is undefined on line 117, column 51 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> assignment: dara_ser=dara_ser?replace(',${end}','') [on line 117, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:39:43 PST ERROR The only legal comparisons are between two numbers, two strings, or two dates.
+Left  hand operand is a freemarker.core.BuiltIn$stringBI$NumberFormatter
+Right hand operand is a freemarker.template.SimpleNumber
+
+----------
+==> if-else  [on line 114, column 25 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:36:26 PST ERROR Expression dara_ser is undefined on line 113, column 51 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> assignment: dara_ser=dara_ser?replace(',${end}','') [on line 113, column 33 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:35:24 PST ERROR The only legal comparisons are between two numbers, two strings, or two dates.
+Left  hand operand is a freemarker.template.SimpleNumber
+Right hand operand is a freemarker.template.SimpleScalar
+
+----------
+==> if-else  [on line 110, column 25 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:30:03 PST ERROR Expression page.params.type is undefined on line 105, column 32 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 105, column 27 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:29:29 PST ERROR Expression page.params.type is undefined on line 105, column 32 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 105, column 27 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:28:35 PST ERROR Expression page.params.type is undefined on line 105, column 32 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if-else  [on line 105, column 27 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 05:11:24 PST ERROR Expression page.params.end is undefined on line 98, column 31 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl.
+----------
+==> if (page.params.end?number<lent?number) [on line 98, column 25 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 04:37:22 PST ERROR Error on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl
+page.params.id is undefined.
+It cannot be assigned to pageid
+----------
+==> assignment: pageid=page.params.id [on line 11, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/rasmi_paging.ftl]
+----------
+
+2009-02-09 04:24:59 PST ERROR Unexpected error occured
+2009-02-09 04:23:47 PST ERROR Unexpected error occured
+2009-02-09 04:09:28 PST ERROR Unexpected end of file reached.
+
+2009-02-09 04:08:51 PST ERROR Unexpected error occured
+2009-02-09 04:07:35 PST ERROR Unexpected error occured
+2009-02-09 04:04:56 PST ERROR Error on line 13, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 13, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 03:59:19 PST ERROR Unexpected error occured
+2009-02-09 03:59:09 PST ERROR Unexpected error occured
+2009-02-09 03:42:25 PST ERROR Found unexpected directive: <#else> on line 46, column 25
+Check whether you have a well-formed if-else block.
+2009-02-09 03:38:19 PST ERROR Unexpected error occured
+2009-02-09 03:36:12 PST INFO 404 File not found: /test0.ft
+2009-02-09 03:35:55 PST ERROR Error on line 13, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl
+tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") is undefined.
+It cannot be assigned to feed
+----------
+==> assignment: feed=tool.content.parseXML("http://www.eonline.com/syndication/feeds/partners/mobile/iloop/news.xml") [on line 13, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+ in user-directive editor.page [on line 2, column 1 in dev.eonline.mblade.iloopmobile.com/testpaging.ftl]
+----------
+
+2009-02-09 03:26:51 PST ERROR Unexpected error occured
+2009-02-09 03:26:32 PST ERROR Expression ids is undefined on line 73, column 42 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${ids} [on line 73, column 40 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 03:09:33 PST INFO 404 File not found: /test0.ft
+2009-02-09 03:08:17 PST ERROR Unexpected error occured
+2009-02-09 02:55:30 PST ERROR Error on line 91, column 30 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+Expression last_res is not numerical
+----------
+==> assignment: last_next=16*last_res [on line 91, column 9 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 02:51:01 PST ERROR Error on line 91, column 28 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+Expression last[0] is not numerical
+----------
+==> assignment: last_next=16*last[0] [on line 91, column 7 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 02:49:35 PST ERROR Expected string. last_res evaluated instead to freemarker.template.SimpleNumber on line 88, column 23 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: last=last_res?split(".") [on line 88, column 7 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 02:45:02 PST ERROR Error on line 88, column 29, in template dev.eonline.mblade.iloopmobile.com/test0.ftl
+Found round, expecting one of:  is_collection,  keys,  interpret,  is_macro,  matches,  sort,  html,  time,  index_of,  values,  right_pad,  xml,  date,  web_safe,  eval,  is_transform,  string,  node_namespace,  float,  size,  cap_first,  number,  namespace,  seq_last_index_of,  j_string,  seq_index_of,  first,  new,  default,  split,  sort_by,  upper_case,  is_number,  last_index_of,  long,  last,  is_directive,  starts_with,  capitalize,  datetime,  is_boolean,  short,  is_hash_ex,  ends_with,  is_enumerable,  chunk,  is_date,  byte,  trim,  is_node,  c,  exists,  chop_linebreak,  double,  is_indexable,  is_string,  ancestors,  url,  replace,  uncap_first,  is_hash,  seq_contains,  is_sequence,  contains,  substring,  left_pad,  if_exists,  length,  has_content,  int,  is_method,  rtf,  reverse,  groups,  lower_case,  node_type,  js_string,  word_list,  root,  parent,  node_name,  children
+2009-02-09 02:44:15 PST ERROR Error on line 89, column 36, in template dev.eonline.mblade.iloopmobile.com/test0.ftl
+Found round, expecting one of:  is_collection,  keys,  interpret,  is_macro,  matches,  sort,  html,  time,  index_of,  values,  right_pad,  xml,  date,  web_safe,  eval,  is_transform,  string,  node_namespace,  float,  size,  cap_first,  number,  namespace,  seq_last_index_of,  j_string,  seq_index_of,  first,  new,  default,  split,  sort_by,  upper_case,  is_number,  last_index_of,  long,  last,  is_directive,  starts_with,  capitalize,  datetime,  is_boolean,  short,  is_hash_ex,  ends_with,  is_enumerable,  chunk,  is_date,  byte,  trim,  is_node,  c,  exists,  chop_linebreak,  double,  is_indexable,  is_string,  ancestors,  url,  replace,  uncap_first,  is_hash,  seq_contains,  is_sequence,  contains,  substring,  left_pad,  if_exists,  length,  has_content,  int,  is_method,  rtf,  reverse,  groups,  lower_case,  node_type,  js_string,  word_list,  root,  parent,  node_name,  children
+2009-02-09 02:43:42 PST ERROR Found unexpected directive: <#else> on line 140, column 9
+Check whether you have a well-formed if-else block.
+2009-02-09 02:28:38 PST ERROR Error on line 16, column 17 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+page.params.arr is undefined.
+It cannot be assigned to arr
+----------
+==> assignment: arr=page.params.arr [on line 16, column 17 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 02:25:58 PST ERROR Unexpected error occured
+2009-02-09 02:25:22 PST ERROR Unexpected error occured
+2009-02-09 02:24:38 PST ERROR Unexpected error occured
+2009-02-09 02:24:05 PST ERROR Unexpected error occured
+2009-02-09 02:22:27 PST ERROR Unexpected error occured
+2009-02-09 02:14:31 PST ERROR Unexpected error occured
+2009-02-09 02:10:18 PST ERROR Unexpected error occured
+2009-02-09 02:06:43 PST ERROR Unexpected error occured
+2009-02-09 02:05:34 PST ERROR Unexpected error occured
+2009-02-09 02:04:00 PST ERROR Unexpected error occured
+2009-02-09 01:58:05 PST ERROR Unexpected error occured
+2009-02-09 01:45:20 PST ERROR Encountered ")" at line 55, column 37.
+Was expecting one of:
+    "in" ...
+    ">" ...
+    <EMPTY_DIRECTIVE_END> ...
+    "." ...
+    "[" ...
+    "(" ...
+    "?" ...
+    "!" ...
+    "??" ...
+    "+" ...
+    "-" ...
+    "*" ...
+    "/" ...
+    "%" ...
+    "!=" ...
+    "=" ...
+    "==" ...
+    ">=" ...
+    <ESCAPED_GTE> ...
+    ">" ...
+    <ESCAPED_GT> ...
+    <LESS_THAN_EQUALS> ...
+    <LESS_THAN> ...
+    ".." ...
+    <AND> ...
+    <OR> ...
+    "," ...
+    <ID> ...
+    <STRING_LITERAL> ...
+    
+2009-02-09 01:42:35 PST INFO 404 File not found: /test0.ft
+2009-02-09 01:27:53 PST ERROR Expression page.params.type is undefined on line 28, column 3 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${page.params.type} [on line 28, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 01:26:39 PST ERROR The only legal comparisons are between two numbers, two strings, or two dates.
+Left  hand operand is a freemarker.template.SimpleScalar
+Right hand operand is a freemarker.template.SimpleNumber
+
+----------
+==> if search_data!=0 [on line 44, column 7 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-09 01:17:39 PST INFO 404 File not found: /test0.ft
+2009-02-09 01:15:12 PST ERROR Token manager error: freemarker.core.TokenMgrError: Unknown directive: #atempt on line: 27, column: 11, in template: dev.eonline.mblade.iloopmobile.com/test0.ftl
+2009-02-08 23:25:30 PST ERROR Expression last_naxt is undefined on line 61, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if last_naxt &gt;=len [on line 61, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:25:19 PST ERROR Expression last_naxt is undefined on line 61, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if last_naxt &lt;len [on line 61, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:25:00 PST ERROR Expression last_naxt is undefined on line 61, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if last_naxt&lt;len [on line 61, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:24:38 PST ERROR Expression last_naxt is undefined on line 61, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if last_naxt&lt;=len [on line 61, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:24:27 PST ERROR Expression last_naxt is undefined on line 61, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> if last_naxt&lt;=len [on line 61, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:22:36 PST ERROR Expression ids is undefined on line 60, column 29 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${ids} [on line 60, column 27 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 23:17:10 PST ERROR Unexpected error occured
+2009-02-08 23:10:08 PST ERROR Unexpected error occured
+2009-02-08 23:03:49 PST ERROR Unexpected error occured
+2009-02-08 22:53:51 PST INFO 404 File not found: /ficus_test3.ftl
+2009-02-08 22:53:33 PST ERROR Unexpected error occured
+2009-02-08 22:52:41 PST ERROR Unexpected error occured
+2009-02-08 22:43:48 PST ERROR Encountered "}" at line 41, column 62.
+Was expecting one of:
+    <STRING_LITERAL> ...
+    <RAW_STRING> ...
+    "false" ...
+    "true" ...
+    <INTEGER> ...
+    <DECIMAL> ...
+    "." ...
+    "+" ...
+    "-" ...
+    "!" ...
+    "[" ...
+    "(" ...
+    "{" ...
+    <ID> ...
+    
+2009-02-08 22:42:09 PST ERROR Unexpected error occured
+2009-02-08 22:38:49 PST ERROR Unexpected error occured
+2009-02-08 22:31:34 PST ERROR Unexpected error occured
+2009-02-08 22:28:52 PST ERROR Unexpected error occured
+2009-02-08 22:26:22 PST ERROR The only legal comparisons are between two numbers, two strings, or two dates.
+Left  hand operand is a freemarker.template.SimpleNumber
+Right hand operand is a freemarker.template.SimpleScalar
+
+----------
+==> if data1=="0" [on line 6, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+----------
+
+2009-02-08 22:25:46 PST ERROR Token manager error: freemarker.core.TokenMgrError: Unknown directive: #if on line: 8, column: 11, in template: dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl
+2009-02-08 22:23:54 PST INFO 404 File not found: /ficus_test3.ftl
+2009-02-08 22:09:50 PST ERROR Unexpected error occured
+2009-02-08 22:07:47 PST ERROR Found unexpected directive: </#if> on line 45, column 1
+Check whether you have a well-formed if-else block.
+2009-02-08 22:06:33 PST INFO 404 File not found: /test0.ft
+2009-02-08 22:05:44 PST ERROR Unexpected error occured
+2009-02-08 22:04:46 PST ERROR Error on line 42, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+Expecting a boolean (true/false) expression here
+Expression first_next does not evaluate to true/false 
+it is an instance of freemarker.template.SimpleNumber
+----------
+==> if first_next [on line 42, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 22:04:16 PST ERROR Unexpected error occured
+2009-02-08 22:03:43 PST ERROR Error on line 42, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+Expecting a boolean (true/false) expression here
+Expression first_next does not evaluate to true/false 
+it is an instance of freemarker.template.SimpleNumber
+----------
+==> if first_next [on line 42, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 22:03:18 PST ERROR Error on line 42, column 6 in dev.eonline.mblade.iloopmobile.com/test0.ftl
+Expecting a boolean (true/false) expression here
+Expression first_next does not evaluate to true/false 
+it is an instance of freemarker.template.SimpleNumber
+----------
+==> if first_next [on line 42, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 22:02:49 PST ERROR Found unexpected directive: </#if> on line 45, column 1
+Check whether you have a well-formed if-else block.
+2009-02-08 21:58:25 PST ERROR Expression id is undefined on line 42, column 41 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${id} [on line 42, column 39 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:57:39 PST ERROR Expression page.params.arr is undefined on line 37, column 22 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${page.params.arr} [on line 37, column 20 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:57:31 PST ERROR Expression id is undefined on line 40, column 41 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${id} [on line 40, column 39 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:57:16 PST ERROR Expression id is undefined on line 40, column 41 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${id} [on line 40, column 39 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:52:40 PST INFO 404 File not found: /top_story_backup.ftl
+2009-02-08 21:52:34 PST INFO 404 File not found: /top_story_back.ftl
+2009-02-08 21:52:28 PST INFO 404 File not found: /top_story_bak.ftl
+2009-02-08 21:49:07 PST ERROR Unexpected error occured
+2009-02-08 21:47:10 PST ERROR Expression page.params.arr is undefined on line 37, column 22 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> ${page.params.arr} [on line 37, column 20 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:47:06 PST INFO 404 File not found: /test0.ft
+2009-02-08 21:45:13 PST ERROR Unexpected error occured
+2009-02-08 21:42:32 PST INFO 404 File not found: /test0.ft
+2009-02-08 21:38:10 PST ERROR Expression page.params.id is undefined on line 6, column 23 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: first_next=page.params.id?number [on line 6, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-08 21:36:25 PST ERROR Expression noof_char is undefined on line 8, column 38 in dev.eonline.mblade.iloopmobile.com/test0.ftl.
+----------
+==> assignment: last_next=noof_char?number [on line 8, column 17 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test0.ftl]
+----------
+
+2009-02-06 04:10:36 PST ERROR Expression rep is undefined on line 12, column 84 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl.
+----------
+==> ${rep} [on line 12, column 82 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+----------
+
+2009-02-06 04:10:29 PST ERROR Expression rep is undefined on line 12, column 84 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl.
+----------
+==> ${rep} [on line 12, column 82 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus3.ftl]
+----------
+
+2009-02-06 03:55:44 PST ERROR Unexpected error occured
+2009-02-06 03:41:10 PST ERROR Unexpected error occured
+2009-02-06 03:40:11 PST ERROR Unexpected error occured
+2009-02-06 03:39:26 PST INFO 404 File not found: /test2.ftl
+2009-02-06 03:37:25 PST INFO 404 File not found: /test2.ftl
+2009-02-06 03:17:31 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 03:13:20 PST INFO 404 File not found: /test2.ftl
+2009-02-06 03:10:48 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 02:57:20 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 02:53:48 PST ERROR Unexpected error occured
+2009-02-06 02:53:35 PST ERROR Unexpected error occured
+2009-02-06 02:46:34 PST ERROR Unexpected error occured
+2009-02-06 02:42:05 PST ERROR Unexpected error occured
+2009-02-06 02:40:23 PST ERROR Unexpected error occured
+2009-02-06 02:38:16 PST ERROR Unexpected error occured
+2009-02-06 02:37:40 PST ERROR Unexpected error occured
+2009-02-06 02:37:28 PST ERROR Unexpected error occured
+2009-02-06 02:30:51 PST ERROR Unexpected error occured
+2009-02-06 02:21:41 PST ERROR Unexpected error occured
+2009-02-06 02:20:55 PST ERROR Unexpected error occured
+2009-02-06 02:20:40 PST ERROR Unexpected error occured
+2009-02-06 02:14:08 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 02:05:22 PST ERROR Expression dara_ser is undefined on line 18, column 37 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl.
+----------
+==> ${dara_ser} [on line 18, column 35 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+----------
+
+2009-02-06 02:05:04 PST ERROR Expression dara_ser is undefined on line 18, column 37 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl.
+----------
+==> ${dara_ser} [on line 18, column 35 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+----------
+
+2009-02-06 02:04:46 PST ERROR Expression dara_ser is undefined on line 18, column 37 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl.
+----------
+==> ${dara_ser} [on line 18, column 35 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus1.ftl]
+----------
+
+2009-02-06 02:03:39 PST ERROR Unexpected error occured
+2009-02-06 01:59:47 PST ERROR Expression page.params.id is undefined on line 4, column 13 in dev.eonline.mblade.iloopmobile.com/test_ficus2.ftl.
+----------
+==> assignment: id=page.params.id?number [on line 4, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus2.ftl]
+ in user-directive editor.page [on line 1, column 1 in dev.eonline.mblade.iloopmobile.com/test_ficus2.ftl]
+----------
+
+2009-02-06 01:59:42 PST ERROR Unexpected error occured
+2009-02-06 01:59:25 PST ERROR Unexpected error occured
+2009-02-06 01:59:09 PST ERROR Unexpected error occured
+2009-02-06 01:58:04 PST ERROR Unexpected error occured
+2009-02-06 01:57:28 PST ERROR Unexpected error occured
+2009-02-06 01:55:56 PST ERROR Unexpected error occured
+2009-02-06 01:55:10 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 01:55:02 PST INFO 404 File not found: /test_ficus3.ftl
+2009-02-06 01:54:00 PST ERROR Unexpected error occured

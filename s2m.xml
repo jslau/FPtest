@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<s2m>
+<page-definitions>
+    <page id="home" fileref="index.ftl" name="index.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="index" fileref="index.ftl" name="index.ftl" behaviour="normal" contentType="text/html" dynamic="true" />
+    <page id="doors_feeds_featured" fileref="doors/feeds/featured.ftl" behaviour="normal" contentType="text/html" />
+    <page id="doors_feeds_featured0" fileref="doors/feeds/featured0.ftl" behaviour="normal" contentType="text/html" />
+    <page id="doors_news" fileref="doors/feeds/news.ftl" behaviour="normal" contentType="text/xml" />
+    <page id="doors_photos" fileref="doors/feeds/photos.ftl" behaviour="normal" contentType="text/xml" />
+    <page id="doors_parse0" fileref="doors/feeds/parse1.ftl" behaviour="normal" contentType="text/html" />
+    <page id="doors_parse1" fileref="doors/feeds/parse1.ftl" behaviour="normal" contentType="text/html" />
+    <page id="doors_videos" fileref="doors/feeds/videos.ftl" behaviour="normal" contentType="text/html" />
+    <page id="doors_videos0" fileref="doors/feeds/videos0.ftl" behaviour="normal" contentType="text/xml" />
+    <page id="doors_videos1" fileref="doors/feeds/videos1.ftl" behaviour="normal" contentType="text/html" />
+    <page id="ads_front" fileref="doors/ads.ftl" behaviour="normal" contentType="text/html" />
+    <page id="article" fileref="article.ftl" name="article.ftl"  behaviour="normal" contentType="text/html"/>
+    <page id="article.ftl" fileref="article.ftl" name="article.ftl"  behaviour="normal" contentType="text/html"/>
+    <page id="article_list" fileref="article_list.ftl" name="article_list.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="photo" fileref="photo.ftl" name="photo.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="photogallery-index" fileref="photogallery-index.ftl" name="photogallery-index.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="photo.ftl" fileref="photo.ftl" name="photo.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="photo_list.ftl" fileref="photo_list.ftl" name="photo_list.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="privacy.ftl" fileref="privacy.ftl" name="privacy.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="share.ftl" fileref="share.ftl" name="share.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="copyright.ftl" fileref="copyright.ftl" name="copyright.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="info.ftl" fileref="info.ftl" name="info.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="sendtofriend.ftl" fileref="sendtofriend.ftl" name="sendtofriend.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="sendtofriend_submit.ftl" fileref="sendtofriend_submit.ftl" name="sendtofriend_submit.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="show_list.ftl" fileref="show_list.ftl" name="show_list.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="terms.ftl" fileref="terms.ftl" name="terms.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="video_list.ftl" fileref="video_list.ftl" name="video_list.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="video_series_list.ftl" fileref="video_series_list.ftl" name="video_series_list.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="videos.ftl" fileref="videos.ftl" name="videos.ftl" behaviour="normal" dynamic="true" contentType="text/html"/>
+    <page id="container_top.ftl" fileref="container_top.ftl" name="container_top.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="carousel.ftl" fileref="carousel.ftl" name="carousel.ftl" behaviour="normal" contentType="text/html"/>
+    <page id="photogallery-android.ftl" fileref="photogallery-android.ftl" name="photogallery-android.ftl" behaviour="normal" contentType="text/html"/>
+</page-definitions>
+
+  <global-content />
+
+  <exception-handling />
+
+  <text-resources />
+
+ <macros>
+      <macro fileref="redirect_in_error.ftl" namespace="feed_error" />
+      <macro fileref="macros/page.ftl" namespace="p" />
+      <macro fileref="macros/submitform.ftl" namespace="s" />
+      <macro fileref="macros/samsungwidget.ftl" namespace="samsung" />
+      <macro fileref="macros/admarvelAPI.ftl" namespace="ad" />
+      <macro fileref="macros/feeds.ftl" namespace="f" />
+      <macro fileref="macros/utils.ftl" namespace="u" />
+      <macro fileref="macros/format.ftl" namespace="format" />
+      <macro fileref="macros/ip_check.ftl" namespace="ipcheck" />
+      <macro fileref="macros/fix_translations.ftl" namespace="translation" />
+ </macros>
+</s2m>

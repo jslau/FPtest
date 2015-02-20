@@ -1,0 +1,1 @@
+${page.response.sendRedirect('/article_list.ftl?category=Movie%20Reviews')}

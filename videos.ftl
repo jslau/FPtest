@@ -1,0 +1,1 @@
+${page.response.sendRedirect('/video_series_list.ftl')}

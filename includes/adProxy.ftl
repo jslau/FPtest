@@ -1,0 +1,1 @@
+<a href='' id='overlay' style='display:block;position:absolute;width:100%;height:100%;top:0;left:0;background:red;opacity:0.5;z-index:200;'></a>

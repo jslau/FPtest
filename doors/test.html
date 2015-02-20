@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+        Remove this if you use the .htaccess -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>test</title>
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width; initial-scale=1.0" />
+        <style>
+            .oi{
+                width:50px;height:50px;background:rgba(255,0,0,0.5);position:absolute;top:200px;
+            }
+            .oiFixed{
+                position:fixed;top:0px;
+            }
+        </style>
+        <script src="js/jquery-1.7.1.min.js" ></script>
+        <script type="text/javascript">
+            /*
+            $(window).on("scroll",function(event){
+                console.log(event.pageY)
+            })
+            */
+                                           document.ready=function(){
+               var sysout=function(txt){
+                   console.log(txt)
+               }
+               var old=$(window).scrollTop();
+               
+$(document).on('touchmove', function() {
+    
+      //checkScroll()
+      /*var y = $(this).scrollTop();
+            if (y >= top) {
+                $('#oi').addClass('oiFixed');
+                $('#oi').css({"top":$(this).scrollTop()});//for mobiles ONLY!! breaks desktop
+            } else {
+                $('#oi').removeClass('oiFixed');
+                $('#oi').css({"top":200});//for mobiles ONLY!! breaks desktop
+            }*/
+        });
+
+        function checkScroll() {
+sysout("aa");
+ie6top = $("#oi").offset().top;
+    if ($(document).scrollTop() > ie6top) {
+        $('#oi').addClass('oiFixed');
+        $('#oi').css({"top":$(document).scrollTop()})
+        sysout("b");
+    } else {
+        $('#oi').removeClass('oiFixed');
+        sysout("c");
+    }
+}
+  //      setInterval(function(){checkScroll()}, 100);
+
+        
+     
+        var top = $('#oi').offset().top
+                - parseFloat($('#oi').css('margin-top').replace(
+                        /auto/, 0));
+
+        
+        $(window).scroll(function(event) {
+            //event.preventDefault();
+            /*
+            var y = $(this).scrollTop();
+            if (y >= top) {
+                $('#oi').addClass('oiFixed');
+                $('#oi').css({"top":$(this).scrollTop()});//for mobiles ONLY!! breaks desktop
+            } else {
+                $('#oi').removeClass('oiFixed');
+                $('#oi').css({"top":200});//for mobiles ONLY!! breaks desktop
+            }
+            */
+        });
+        
+        var y = $(this).scrollTop();
+        if (y >= top) {
+            $('#oi').addClass('oiFixed');
+            $('#oi').css({"top":$(this).scrollTop()});//for mobiles ONLY!! breaks desktop
+        } else {
+            $('#oi').removeClass('oiFixed');
+            $('#oi').css({"top":200});//for mobiles ONLY!! breaks desktop
+        }
+
+
+        
+           $(window).scroll(function(){diff=old-$(window).scrollTop();
+               sysout(diff)
+               if(diff>0){
+                   sysout("up")
+               }
+               else{
+                   sysout("down")
+               }
+                sysout($(window).scrollTop())
+                sysout($("#oi").position().top-$(window).scrollTop())
+                sysout("_")
+                if($("#oi").position().top-$(window).scrollTop()<0 && diff<0 ){
+                     $("#oi").css({"top":$(window).scrollTop()})
+                     sysout("a")
+                }
+                else if($("#oi").position().top-$(window).scrollTop()<0 && diff>0){
+                    $("#oi").css({"top":$(window).scrollTop()})
+                }
+                else if($(window).scrollTop()-200>0 && diff>0){
+                     $("#oi").css({"top":200})
+
+                    sysout("b")
+                   //$("#oi").position().top=$(window).scrollTop()
+                }
+                old=$(window).scrollTop()
+            })
+            
+
+            
+           }
+           
+        </script>
+    </head>
+    <body>
+<ul style="position:relative;">
+<ul>
+      <li class="art_cont news334581"><a href="http://eproto.mtiny.com/article.ftl?id=334581"><div>Olympics Roundup: Redemption for Michael Phelps, Tony Parker and U.S. Gymnastics</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.ab.olympics.073112.jpg"></li><li class="art_cont news334590"><a href="http://eproto.mtiny.com/article.ftl?id=334590"><div>Kim Kardashian and Kanye West Zipline in Mexico</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.kimye.joe.mh.073112.jpg"></li><li class="art_cont news334574"><a href="http://eproto.mtiny.com/article.ftl?id=334574"><div>The Words Trailer: Watch Recent Exes Bradley Cooper and Zoe Saldana Act in Love</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/20111030//300.ab.words.113011.jpg"></li><li class="art_cont news334537"><a href="http://eproto.mtiny.com/article.ftl?id=334537"><div>Robert Pattinson Has Not Canceled Cosmopolis Publicity Because of Cheating Scandal, Says Rep</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012612//reg_600.rpattz.ls71212.jpg"></li><li class="art_cont news334554"><a href="http://eproto.mtiny.com/article.ftl?id=334554"><div>Diana Ross Weighs In on Michael Jackson Family Drama</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012112//300.ab.ross.021212.jpg"></li><li class="art_cont news334538"><a href="http://eproto.mtiny.com/article.ftl?id=334538"><div>Fifty Shades of Grey Casting Rumor Roundup: Angelina Jolie, William Levy and Emma Watson</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//300.grey.ls.73112.jpg"></li><li class="art_cont news334539"><a href="http://eproto.mtiny.com/article.ftl?id=334539"><div>Bar Refaeli &amp; Snowboarder Shaun White Cheer on Michael Phelps Together</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.white.cm.73112.jpg"></li><li class="art_cont news334524"><a href="http://eproto.mtiny.com/article.ftl?id=334524"><div>Selena Gomez Shows Off New Bangs--Do You Like?</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.selena.hair.mh.073112.jpg"></li><li class="art_cont news334482"><a href="http://eproto.mtiny.com/article.ftl?id=334482"><div>Vince Vaughn Rebooting The Brady Bunch on CBS</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/201107//300.vaughn.lc.010711.jpg"></li><li class="art_cont news334468"><a href="http://eproto.mtiny.com/article.ftl?id=334468"><div>E! London Beauty Beat: How to Sport Olympic Style! </div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.vf.katemid.mh.073112.jpg"></li><li class="art_cont news334520"><a href="http://eproto.mtiny.com/article.ftl?id=334520"><div>From Justin Bieber to Michael Phelps: Best Olympic Tweets! </div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//300.olym.ls.7312.jpg"></li><li class="art_cont news333394"><a href="http://eproto.mtiny.com/article.ftl?id=333394"><div>Gotye Talks Sex Change and "Somebody That I Used to Know" Parodies</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012519//reg_600.gotye.mh.061912.jpg"></li><li class="art_cont news334478"><a href="http://eproto.mtiny.com/article.ftl?id=334478"><div>How Much Sex Is Going On at the Olympic Village? Does 100,000 Condoms Answer Your Question?  </div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.NZHockey.mh.073112.jpg"></li><li class="art_cont news334490"><a href="http://eproto.mtiny.com/article.ftl?id=334490"><div>Watch! John Mayer's "Queen of California" Video Released</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.mayer.mh.073112.jpg"></li><li class="art_cont news334483"><a href="http://eproto.mtiny.com/article.ftl?id=334483"><div>Kate Middleton Lands Cover of Vanity Fair's "International Best-Dressed List"</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.vf.katemid.mh.073112.jpg"></li><li class="art_cont news334472"><a href="http://eproto.mtiny.com/article.ftl?id=334472"><div>New Couple Alert! Taylor Swift Spends Weekend With RFK's Grandson Conor Kennedy</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.taylor.connor.mh.073112.jpg"></li><li class="art_cont news334427"><a href="http://eproto.mtiny.com/article.ftl?id=334427"><div>Glee Scoop: Five Things We Know About Season Four!</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012612//300.wwk.glee.mh.071212.jpg"></li><li class="art_cont news334442"><a href="http://eproto.mtiny.com/article.ftl?id=334442"><div>Michael Phelps Misses Threepeat Despite Samuel L. Jackson's Tweets, Becomes Most Medaled Olympian</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.phelps.slj.mh.073112.jpg"></li><li class="art_cont news334446"><a href="http://eproto.mtiny.com/article.ftl?id=334446"><div>Coldplay's Chris Martin Flubs Lyrics in Concert, Blames...the Olympics?!</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/20080613/300.martin.chris.061308.jpg"></li><li class="art_cont news334439"><a href="http://eproto.mtiny.com/article.ftl?id=334439"><div>Cuba Gooding Jr. Wanted for Arrest After Alleged New Orleans Bar Battery</div></a><img src="http://images.eonline.com//eol_images/Entire_Site/2012631//reg_600.cuba.ls.7312.jpg"></li></ul>
+</ul>
+<div id="oi" class="oi"></div>
+    </body>
+</html>
